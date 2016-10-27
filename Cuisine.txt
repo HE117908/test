@@ -40,7 +40,7 @@
             <thead>
                 <tr>
                     <th>Numéro de table :</th>
-                    <th>Nom du plat :</th>
+                    <th>Test </th>
                     <th>Prix :</th>
                 </tr>
             </thead>
