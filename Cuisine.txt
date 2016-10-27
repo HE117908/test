@@ -66,6 +66,38 @@
         </div>
     </div>
 </div>
+<div class="col-md-9">
+    <div class="thumbnail">
+        <div class="caption-full"><table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Numéro de table :</th>
+                    <th>Nom du plat :</th>
+                    <th>Prix :</th>
+                </tr>
+            </thead>
+            <tbody id="tableau">
+            <!-- A remplir automatiquement mais hard codé pour l'instant, donc supprimé tous les balises <tr> et <td> pour tester-->
+                <tr>
+                    <td>N°1</td>
+                    <td>HOUSE-MADE RICOTTA</td>
+                    <td>$24.99</td>
+                </tr>
+                <tr>
+                    <td>N°1</td>
+                    <td>HOUSE-MADE RICOTTA</td>
+                    <td>$24.99</td>
+                </tr>
+                <tr>
+                    <td>N°1</td>
+                    <td>HOUSE-MADE RICOTTA</td>
+                    <td>$24.99</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+    </div>
+</div>
 
 <!-- /.container -->
 
